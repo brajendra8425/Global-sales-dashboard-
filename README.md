@@ -1,3 +1,4 @@
+# The Global Sales Dashboard developed on Power BI is a dynamic tool designed to offer comprehensive insights and facilitate forecasting for businesses operating in a global market landscape
 The Global Sales Dashboard developed on Power BI is a dynamic tool designed to offer comprehensive insights and facilitate forecasting for businesses operating in a global market landscape. 
 This innovative dashboard harnesses the power of data visualization to provide actionable insights that drive strategic decision-making.
 
