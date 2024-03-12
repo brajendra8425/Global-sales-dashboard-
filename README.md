@@ -17,6 +17,17 @@ Its user-friendly interface, robust analytical capabilities, and forecasting pro
 By providing actionable insights and facilitating informed decision-making, this dashboard becomes an indispensable tool for driving growth, optimizing resources, and staying ahead of the competition in today's
 dynamic business environment.
 
+The Global Sales Dashboard on Power BI offers a comprehensive suite of features tailored to provide invaluable insights and forecasting capabilities for businesses operating in a global market landscape. Key components of the dashboard include:
+
+Data Visualization: Intuitive charts, graphs, and heat maps offer visual representations of sales data, facilitating easy identification of trends, patterns, and outliers.
+
+Forecasting: Leveraging historical data and advanced analytical techniques, the dashboard generates accurate forecasts, enabling businesses to anticipate market fluctuations and optimize resource allocation.
+
+Composition Tree: This feature provides a hierarchical view of sales data, allowing users to explore sales performance by various dimensions such as product categories, geographical regions, or customer segments.
+
+Insight Generation: Through comprehensive data analysis, the dashboard uncovers actionable insights that drive strategic decision-making, helping businesses understand market dynamics and customer preferences.
+
+Decision Support: Armed with real-time insights and forecasting capabilities, decision-makers can make informed decisions to drive growth, optimize resources, and stay ahead of the competition in the global marketplace.
 
 
 
